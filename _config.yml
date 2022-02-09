@@ -105,6 +105,3 @@ deploy:
   type: git
   repo: http://github.com/buttry666/curity.github.io
   branch: master
-[user]
-    name = buttry666
-    email = 1803502142@qq.com
